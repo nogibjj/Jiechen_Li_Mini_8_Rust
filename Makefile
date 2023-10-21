@@ -13,28 +13,28 @@ python_lint:
 
 # Rust-specific commands
 
-install_rust:
-	cargo check
+# install_rust:
+# 	cargo check
 
-test_rust:
-	cargo test
+# test_rust:
+# 	cargo test
 
-format_rust:
-	cargo fmt
+# format_rust:
+# 	cargo fmt
 
-lint_rust:
-	cargo clippy
+# lint_rust:
+# 	cargo clippy
 
-# Rust-specific commands
+# # Rust-specific commands
 
-install-rust:
-	cargo check
+# install-rust:
+# 	cargo check
 
-test-rust:
-	cargo test
+# test-rust:
+# 	cargo test
 
-run-rust:
-	cargo run 
+# run-rust:
+# 	cargo run 
 		
 # container-lint:
 # 	docker run --rm -i hadolint/hadolint < Dockerfile

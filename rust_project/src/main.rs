@@ -44,7 +44,7 @@ pub fn check_variable(resume: &HashMap<String, Vec<String>>) {
 }
 
 fn main() -> Result<()> {
-    let file_path = "/Users/castnut/Desktop/706_Data_Engineering/Mini_Project/resume.csv";
+    let file_path = "resume.csv";
     let resume = read_resume(file_path)?;
     check_variable(&resume);
     Ok(())
