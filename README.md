@@ -26,10 +26,6 @@ This  template is from [706_Data_Engineering_ Mini_Project]("https://github.com/
 
 ### Build Rust Environment in Python Environment
 
-**The structure of Rust project created by Cargo in this repo**:
-
-<img decoding="async" src="./rust_str.png" width="85%">
-
 **To set up Rust and Cargo**:
 
 1. *Install Rust using rustup*:
@@ -108,7 +104,7 @@ git commit -m "Updated GitHub Actions workflow to use make python_install"
 **Python Result**: <br/>
 <img decoding="async" src="./py_result.png" width="85%">  
 
-**Visualaization**: <br/>
+**Visualization**: <br/>
 <img decoding="async" src="./Figure_1.png" width="85%">  
 
 ### Reference
