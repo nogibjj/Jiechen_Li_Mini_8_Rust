@@ -1,4 +1,4 @@
-[![CI](https://github.com/nogibjj/python-ruff-template/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/python-ruff-template/actions/workflows/cicd.yml)
+[![CI](https://github.com/nogibjj/Jiechen_Li_Mini_8_Rust/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Jiechen_Li_Mini_8_Rust/actions/workflows/cicd.yml)
 
 ## 706-Data-Engineering-Template
 
