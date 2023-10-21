@@ -41,7 +41,7 @@ def plot_data(data: dict):
     plt.show()
 
 
-def main(file_path: str):
+def cal_variable(file_path: str):
     resume = read_resume(file_path)
     data = check_variable(resume)
     for label, counts in data.items():
@@ -51,8 +51,8 @@ def main(file_path: str):
 
 
 if __name__ == "__main__":
-    file_path = "resume.csv"
-    main(file_path)
+    resume_file_path = "Jiechen_Li_Mini_8_Rust/resume.csv"
+    cal_variable(resume_file_path)
 
 
 # data = {

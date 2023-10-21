@@ -4,7 +4,7 @@
 
 ### Repo Information
 
-This  template is from [706_Data_Engineering_ Mini_Project]("https://github.com/carrieli15/706-Data-Engineering-Template.git"). I use **highlight** words to indicate the changes by adding Rust configuration:
+This  template is from [706_Data_Engineering_ Mini_Project](https://github.com/carrieli15/706-Data-Engineering-Template.git). I use **highlighted** words to indicate the changes by adding Rust configuration:
 
 - ``.devcontainer`` includes a Dockerfile and devcontainer.json.
                 The ``Dockerfile`` within this folder specifies how the container should be built, and other settings in this directory may control development environment configurations. **Add Rust to path**.
@@ -109,4 +109,4 @@ git commit -m "Updated GitHub Actions workflow to use make python_install"
 
 ### Reference
 
-[Online Converting Tool for Python and Rust]("https://thepythoncode.com/assistant/code-converter/rust/")
+[Online Converting Tool for Python and Rust](https://thepythoncode.com/assistant/code-converter/rust/)
