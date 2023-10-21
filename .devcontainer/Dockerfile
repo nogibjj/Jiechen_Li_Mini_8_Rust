@@ -8,7 +8,8 @@ FROM mcr.microsoft.com/vscode/devcontainers/universal:2-focal
 RUN apt-get update && apt-get -y install --no-install-recommends \
    python3.8-venv \
    gcc 
-   
+# Add Rust to PATH
+ENV PATH="/root/.cargo/bin:${PATH}"   
 ARG USER="codespace"
 ARG VENV_PATH="/home/${USER}/venv"
 COPY requirements.txt /tmp/
