@@ -1,6 +1,6 @@
 [![CI](https://github.com/nogibjj/Jiechen_Li_Mini_8_Rust/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Jiechen_Li_Mini_8_Rust/actions/workflows/cicd.yml)
 
-## 706-Data-Engineering-Template
+## Jiechen-Li-Mini_8_Rust
 
 ### Repo Information
 
